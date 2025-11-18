@@ -48,8 +48,6 @@ Este é o projeto que melhor demonstra minhas habilidades em arquitetura e boas 
 
 ## 📊 Minhas Estatísticas do GitHub
 
-(Assim como a Glaucia, estas estatísticas mostram sua atividade e áreas de foco)
-
 ![Estatísticas de Gustavo Keiller no GitHub](https://github-readme-stats.vercel.app/api?username=gustavo-keiller&theme=radical&show_icons=true&hide_border=true&count_private=true)
 ![Suas Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-keiller&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
